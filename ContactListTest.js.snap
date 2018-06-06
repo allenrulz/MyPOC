@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly with All 1`] = `
+<View>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "Company": "Devcast",
+          "Title": "Mechanical Systems Engineer",
+          "email": "delie81@washingtonpost.com",
+          "first_name": "Diane-marie",
+          "gender": "Female",
+          "id": 290,
+          "last_name": "Elie",
+        },
+        Object {
+          "Company": "Youspan",
+          "Title": "Information Systems Manager",
+          "email": "dlangstonejv@bloglines.com",
+          "first_name": "Diandra",
+          "gender": "Female",
+          "id": 716,
+          "last_name": "Langstone",
+        },
+        Object {
+          "Company": "Lazz",
+          "Title": "Chemical Engineer",
+          "email": "dforankq@whitehouse.gov",
+          "first_name": "Diarmid",
+          "gender": "Male",
+          "id": 747,
+          "last_name": "Foran",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    invertStickyHeaders={undefined}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Diane-marie
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Diandra
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Diarmid
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`renders correctly with Dia 1`] = `
+<View>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "Company": "Jetpulse",
+          "Title": "Design Engineer",
+          "email": "ariallbf@nationalgeographic.com",
+          "first_name": "Alley",
+          "gender": "Male",
+          "id": 412,
+          "last_name": "Riall",
+        },
+        Object {
+          "Company": "Zoombeat",
+          "Title": "Social Worker",
+          "email": "aschusterlh9@cafepress.com",
+          "first_name": "Allen",
+          "gender": "Male",
+          "id": 622,
+          "last_name": "Schusterl",
+        },
+        Object {
+          "Company": "Wikido",
+          "Title": "Director of Sales",
+          "email": "abryentoniz@theatlantic.com",
+          "first_name": "Allene",
+          "gender": "Female",
+          "id": 684,
+          "last_name": "Bryenton",
+        },
+        Object {
+          "Company": "Flashspan",
+          "Title": "Senior Editor",
+          "email": "amatthewkr@ning.com",
+          "first_name": "Allene",
+          "gender": "Female",
+          "id": 748,
+          "last_name": "Matthew",
+        },
+        Object {
+          "Company": "Brightbean",
+          "Title": "Financial Analyst",
+          "email": "abickersl8@state.gov",
+          "first_name": "Allegra",
+          "gender": "Female",
+          "id": 765,
+          "last_name": "Bickers",
+        },
+        Object {
+          "Company": "Tagchat",
+          "Title": "Recruiting Manager",
+          "email": "agarbettlr@naver.com",
+          "first_name": "Allyn",
+          "gender": "Female",
+          "id": 784,
+          "last_name": "Garbett",
+        },
+        Object {
+          "Company": "Quaxo",
+          "Title": "Nuclear Power Engineer",
+          "email": "agonetpr@ocn.ne.jp",
+          "first_name": "Allene",
+          "gender": "Female",
+          "id": 928,
+          "last_name": "Gonet",
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    invertStickyHeaders={undefined}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Alley
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allen
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allene
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allene
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allegra
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allyn
+        </Text>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+        >
+          Allene
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
